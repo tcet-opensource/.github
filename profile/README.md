@@ -9,7 +9,7 @@ TCET Open Source aims to streamline software engineering education and developme
 2. [SORT Club Website](https://tcet-opensource.github.io/SORT/)
 
 ### Projects in Development
-1. TNP Website (AICTE 100 points diary generator)
+1. TNP Website 
 2. TCET Linux (linux@tcetmumbai.in)
 
 ### Planning
