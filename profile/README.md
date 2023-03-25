@@ -2,6 +2,8 @@
 
 TCET Open Source aims to streamline software engineering education and development into a single organization.
 
+> We are hiring for Backend & DevOps roles: https://tinyurl.com/TCET-backenddeveops-23-26batch
+
 ### Current Production Projects
 1. [Activity Dekho](https://activitydekho.com/)
 2. [SORT Club Website](https://tcet-opensource.github.io/SORT/)
