@@ -6,7 +6,7 @@ TCET Open Source aims to streamline software engineering education and developme
 
 ### Current Production Projects
 1. [Activity Dekho](https://activitydekho.com/)
-2. [SORT Club Website](https://tcet-opensource.github.io/SORT/)
+2. [SORT Club Website](https://sort.tcetmumbai.in/)
 
 ### Projects in Development
 1. TNP Website 
