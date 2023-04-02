@@ -13,5 +13,4 @@ TCET Open Source aims to streamline software engineering education and developme
 
 ### Planning
 1. ERP
-2. Resume Screener
-3. Canteen Management System
+2. Canteen Management System
