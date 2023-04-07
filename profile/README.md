@@ -6,6 +6,7 @@ TCET Open Source aims to streamline software engineering education and developme
 1. [Activity Dekho](https://activitydekho.com/)
 2. [SORT Club Website](https://sort.tcetmumbai.in/)
 3. [Fill My Cycle](https://fillmycycle.tcetmumbai.in/)
+4. [IEEE Website](https://ieee.tcetmumbai.in/)
 
 ### Projects in Development
 1. TNP Website 
