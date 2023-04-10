@@ -3,7 +3,7 @@
 TCET Open Source aims to streamline software engineering education and development into a single organization.
 
 ## Featured Contribution:
-- @[doesnots](https://github.com/doesnots) from SE COMPs has improved the quality of the checkmarks on [FMC](https://fillmycycle.tcetmumbai.in/). You can have a look at her contributions [here](https://github.com/tcet-opensource/fillmycycle/pulls?q=is%3Apr+is%3Aclosed+author%3Adoesnots).
+- @[doesnots](https://github.com/doesnots) from SE COMPs has improved the quality of checkmarks on [FMC](https://fillmycycle.tcetmumbai.in/). You can have a look at her contributions [here](https://github.com/tcet-opensource/fillmycycle/pulls?q=is%3Apr+is%3Aclosed+author%3Adoesnots).
 
 ### Current Production Projects
 1. [Activity Dekho](https://activitydekho.com/)
