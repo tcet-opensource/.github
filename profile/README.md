@@ -13,7 +13,7 @@ TCET Open Source aims to streamline software engineering education and developme
 5. [IETE Website](https://iete.tcetmumbai.in/)
 
 ### Projects in Development
-1. TNP Website 
+1. [TNP Website](https://tnp.tcetmumbai.in/)
 2. TCET Linux (linux@tcetmumbai.in)
 3. Resume Screener
 4. [Docs Site](https://opensource.tcetmumbai.in/) 
