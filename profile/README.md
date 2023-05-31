@@ -2,9 +2,8 @@
 
 TCET Open Source aims to streamline software engineering education and development into a single organization.
 
-## Announcement:
-#### We are hiring!! 
-Get a chance to be a part of engineering teams. Apply now: [about:blank](about:blank)
+### We are hiring:
+Get a chance to be a part of engineering teams. Apply [now](https://bit.ly/tcetosrecruitment).
 
 ## Featured Contribution:
 - @[Horror26](https://github.com/Horror26) from SE COMPs has added dark mode on [FMC](https://fillmycycle.tcetmumbai.in/). You can have a look at his contributions [here](https://github.com/tcet-opensource/fillmycycle/pull/9/commits).
