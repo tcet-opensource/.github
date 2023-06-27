@@ -1,6 +1,6 @@
 # Welcome to TCET Open Source
 
-TCET Open Source aims to streamline software engineering education and development into a single organization.
+TCET Open Source aims to streamline software engineering education and development into a single organization. Kindly star our repos, if you like them. It really helps us out.
 
 ### We are hiring:
 Get a chance to be a part of engineering teams. Apply [now](https://bit.ly/tcetosrecruitment).
