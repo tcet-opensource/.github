@@ -2,12 +2,6 @@
 
 TCET Open Source aims to streamline software engineering education and development into a single organization. Kindly star our repos, if you like them. It really helps us out.
 
-### We are hiring:
-Get a chance to be a part of engineering teams. Apply [now](https://bit.ly/tcetosrecruitment).
-
-## Featured Contribution:
-- @[Horror26](https://github.com/Horror26) from SE COMPs has added dark mode on [FMC](https://fillmycycle.tcetmumbai.in/). You can have a look at his contributions [here](https://github.com/tcet-opensource/fillmycycle/pull/9/commits).
-
 ### Current Production Projects
 1. [Activity Dekho](https://activitydekho.com/)
 2. [SORT Club Website](https://sort.tcetmumbai.in/)
@@ -17,8 +11,8 @@ Get a chance to be a part of engineering teams. Apply [now](https://bit.ly/tceto
 
 ### Projects in Development
 1. [TNP Website](https://tnp.tcetmumbai.in/)
-2. [TCET Linux](https://linux.tcetmumbai.in)
-3. Resume Screener
+2. [TCET Linux](https://linux.tcetmumbai.in/)
+3. [Resume Screener](https://rc.tcetmumbai.in/)
 4. [Docs Site](https://opensource.tcetmumbai.in/) 
 
 ### Planning
