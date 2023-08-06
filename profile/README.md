@@ -3,17 +3,15 @@
 TCET Open Source aims to streamline software engineering education and development into a single organization. Kindly star our repos, if you like them. It really helps us out.
 
 ### Current Production Projects
-1. [Activity Dekho](https://activitydekho.com/)
-2. [SORT Club Website](https://sort.tcetmumbai.in/)
-3. [Fill My Cycle](https://fillmycycle.tcetmumbai.in/)
-4. [IEEE Website](https://ieee.tcetmumbai.in/)
-5. [IETE Website](https://iete.tcetmumbai.in/)
-
+1. [Official Documentation](https://opensource.tcetmumbai.in/https://opensource.tcetmumbai.in/docs/about-tcetopensource)
+2. [Activity Dekho](https://activitydekho.com/)
+3. [TNP Website](https://tnp.tcetmumbai.in/)
+4. [Fill My Cycle](https://fillmycycle.tcetmumbai.in/)
+5. Websites of Social & Professional Bodies ([CSI](https://csi.tcetmumbai.in/), [IEEE](https://ieee.tcetmumbai.in/), [IETE](https://iete.tcetmumbai.in/), [ISTE](https://iste.tcetmumbai.in/), [SORT](https://sort.tcetmumbai.in/), [Rotaract](https://rc.tcetmumbai.in), [NCC](https://ncc.tcetmumbai.in/))
+   
 ### Projects in Development
-1. [TNP Website](https://tnp.tcetmumbai.in/)
-2. [TCET Linux](https://linux.tcetmumbai.in/)
-3. [Resume Screener](https://rc.tcetmumbai.in/)
-4. [Docs Site](https://opensource.tcetmumbai.in/) 
+1. [TCET Linux](https://linux.tcetmumbai.in/)
+2. [Resume Screener](https://rc.tcetmumbai.in/)
 
 ### Planning
 1. ERP
