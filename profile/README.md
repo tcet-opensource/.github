@@ -11,7 +11,7 @@ TCET Open Source aims to streamline software engineering education and developme
    
 ### Projects in Development
 1. [TCET Linux](https://linux.tcetmumbai.in/)
-2. [Resume Screener](https://rc.tcetmumbai.in/)
+2. [Resume Screener](https://rs.tcetmumbai.in/)
 
 ### Planning
 1. ERP
