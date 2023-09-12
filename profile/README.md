@@ -12,10 +12,10 @@ TCET Open Source aims to streamline software engineering education and developme
 ### Projects in Development
 1. [TCET Linux](https://linux.tcetmumbai.in/)
 2. [Resume Screener](https://rs.tcetmumbai.in/)
+3. ERP
 
 ### Planning
-1. ERP
-2. Canteen Management System
+1. Canteen Management System
 
 #### TCET Open Source supports the use and distribution of Free and Open Source Softwar (FOSS). None of the projects in this Organization are restricted by patents and their source codes are accessible to everyone as per licences of respective repository.
 <a href="https://endsoftwarepatents.org/innovating-without-patents"><img style="height: 120px;" src="https://static.fsf.org/nosvn/esp/logos/innovating-without-patents.svg"></a>
