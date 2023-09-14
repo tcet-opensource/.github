@@ -18,6 +18,11 @@ body:
   - type: checkboxes
     id: terms
     attributes:
+      label: Work on this feature myself
+      description: By submitting this issue, you agree to contribute a viable solution to the proposed feature, via discussion and code.
+      options:
+        - label: I am willing to implement this feature.
+          required: true
       label: Terms and Conditions
       description: By submitting this issue, you agree to follow our [Code of Conduct]()
       options:
