@@ -28,7 +28,7 @@ body:
       description: By submitting this issue, you agree to contribute a viable solution to the proposed feature, via discussion and code.
       options:
         - label: I am willing to implement this feature.
-          required: true
+          required: false
   - type: checkboxes
     id: terms
     attributes:
