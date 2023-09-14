@@ -22,7 +22,7 @@ body:
     validations:
       required: true
   - type: checkboxes
-    id: terms
+    id: want_to_work
     attributes:
       label: Work on this feature myself
       description: By submitting this issue, you agree to contribute a viable solution to the proposed feature, via discussion and code.
