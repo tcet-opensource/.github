@@ -11,5 +11,5 @@
 <!--![Screenshot](url-to-screenshot)-->
 
 ## Checklist
-- [ ] I have read and agree to abide by the [Code of Conduct] 
-- [ ] I have read and followed the [Contributing Guidelines]
+- [ ] I have read and agree to abide by the [Code of Conduct](../CODE_OF_CONDUCT.md)
+- [ ] I have read and followed the **Contributing Guidelines**
