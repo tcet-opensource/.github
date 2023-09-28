@@ -11,5 +11,5 @@
 <!--![Screenshot](url-to-screenshot)-->
 
 ## Checklist
-- [ ] I have read and agree to abide by the [Code of Conduct](../CODE_OF_CONDUCT.md)
+- [ ] I have read and agree to abide by the [Code of Conduct](https://github.com/tcet-opensource/.github/blob/main/CODE_OF_CONDUCT.md)
 - [ ] I have read and followed the **Contributing Guidelines**
